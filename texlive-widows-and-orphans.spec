@@ -1,6 +1,6 @@
 Name:		texlive-widows-and-orphans
-Version:	64212
-Release:	2
+Version:	66753
+Release:	1
 Summary:	Identify (typographic) widows and orphans
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/widows-and-orphans
