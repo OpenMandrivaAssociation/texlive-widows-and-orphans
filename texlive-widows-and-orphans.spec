@@ -3,7 +3,7 @@ Version:	66753
 Release:	1
 Summary:	Identify (typographic) widows and orphans
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/widows-and-orphans
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/widows-and-orphans
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/widows-and-orphans.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/widows-and-orphans.doc.r%{version}.tar.xz
